@@ -1,4 +1,3 @@
-~~~markdown
 <h1 align="center">Hi, I'm Ngô Văn Lực 👋</h1>
 
 <p align="center">
@@ -39,4 +38,3 @@ I use hands-on projects to practice network configuration, troubleshooting, and 
 
 📍 Nha Trang, Vietnam  
 ✉️ [ngovanluc689@gmail.com](mailto:ngovanluc689@gmail.com)
-~~~
