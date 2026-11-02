@@ -11,17 +11,3 @@
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
-
-### Skills & tools
-
-| Area | Tools and topics |
-|---|---|
-| Networking | Cisco Packet Tracer, VLAN, STP, HSRP, NAT/PAT |
-| Network analysis | Wireshark |
-| Programming & databases | Python, Java |
-| Version control | Git, GitHub |
-
-### Contact
-
-📍 Nha Trang, Vietnam  
-✉️ [ngovanluc689@gmail.com](mailto:ngovanluc689@gmail.com)
